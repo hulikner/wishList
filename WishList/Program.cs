@@ -15,9 +15,7 @@ void Main() {
   };
 
   Console.WriteLine("My wishes...");
-  for (const wish of iWishFor) {
-    console.log(wish);
-  }
+  foreach (string wish in iWishFor)
+    Console.WriteLine(wish);
 }
 
-main();

@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\deric\\.nuget\\packages\\": {}
+    "C:\\Users\\hulik\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\deric\\workspace\\csharp\\WishList\\WishList\\WishList.csproj",
+      "projectUniqueName": "C:\\Users\\hulik\\workspace\\csharp\\wishList\\WishList\\WishList.csproj",
       "projectName": "WishList",
-      "projectPath": "C:\\Users\\deric\\workspace\\csharp\\WishList\\WishList\\WishList.csproj",
-      "packagesPath": "C:\\Users\\deric\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\deric\\workspace\\csharp\\WishList\\WishList\\obj\\",
+      "projectPath": "C:\\Users\\hulik\\workspace\\csharp\\wishList\\WishList\\WishList.csproj",
+      "packagesPath": "C:\\Users\\hulik\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hulik\\workspace\\csharp\\wishList\\WishList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\deric\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hulik\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
